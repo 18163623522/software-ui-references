@@ -1,0 +1,795 @@
+[
+  {
+    "name": "审美图鉴",
+    "url": "https://cari.institute/aesthetics",
+    "subtitle": "",
+    "categories": [
+      "inspiration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-product-7-1.svg",
+    "broken": false,
+    "added_date": "2026-11-10"
+  },
+  {
+    "name": "Responsinator",
+    "url": "https://gitussr.github.io/responsinator/",
+    "subtitle": "可在多个设备浏览器中模拟网站的运行情况，完全免费。",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-10-19"
+  },
+  {
+    "name": "封面·一图流·素材生成 BY 拉乎",
+    "url": "https://rahoo.online/",
+    "subtitle": "封面·一图流·素材生成",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-10-12"
+  },
+  {
+    "name": "RARE UI",
+    "url": "https://www.rareui.com/",
+    "subtitle": "UI效果及代码仓库",
+    "categories": [
+      "ui"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-window-11.svg",
+    "broken": false,
+    "added_date": "2026-10-10"
+  },
+  {
+    "name": "PS及AE效果插件 febrero_",
+    "url": "https://buymeacoffee.com/febrero_/extras",
+    "subtitle": "免费PS插件效果器",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-09-06"
+  },
+  {
+    "name": "年报档案库",
+    "url": "https://annualreport.gallery/",
+    "subtitle": "收录1945年-2020年年报的档案库",
+    "categories": [
+      "inspiration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-product-7-1.svg",
+    "broken": false,
+    "added_date": "2026-08-25"
+  },
+  {
+    "name": "光照参考网站",
+    "url": "https://light-reference.takayustudio.jp/",
+    "subtitle": "三维模型光照参考",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-08-18"
+  },
+  {
+    "name": "undraw",
+    "url": "https://undraw.co/illustrations",
+    "subtitle": "矢量绘画图形素材库",
+    "categories": [
+      "illustration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-photo-camera-9.svg",
+    "broken": false,
+    "added_date": "2026-08-04"
+  },
+  {
+    "name": "渐变生成器",
+    "url": "https://gradients.juangarcia.ch/",
+    "subtitle": "在线多色渐变图形/视频生成器",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-08-04"
+  },
+  {
+    "name": "Iconfinder",
+    "url": "https://www.magnific.com/icons",
+    "subtitle": "图标库，由magnific支持",
+    "categories": [
+      "resource"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-7.svg",
+    "broken": false,
+    "added_date": "2026-08-04"
+  },
+  {
+    "name": "像素画-無料の素材サイト",
+    "url": "https://dotown.maeda-design-room.net/page/2/",
+    "subtitle": "像素画素材下载",
+    "categories": [
+      "illustration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-photo-camera-9.svg",
+    "broken": false,
+    "added_date": "2026-08-04"
+  },
+  {
+    "name": "ChiPlot/论文图表",
+    "url": "https://www.chiplot.online/",
+    "subtitle": "论文图表绘制网站",
+    "categories": [
+      "illustration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-photo-camera-9.svg",
+    "broken": false,
+    "added_date": "2026-08-04"
+  },
+  {
+    "name": "润植家字体",
+    "url": "https://www.runzhijia.art/nzgrfonts/nzgrfonts.html",
+    "subtitle": "润植字体",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-08-04"
+  },
+  {
+    "name": "SPACE TYPE GENERATOR",
+    "url": "https://spacetypegenerator.com/index.html",
+    "subtitle": "空间立体字制作网站",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-08-04"
+  },
+  {
+    "name": "Text Generators",
+    "url": "https://fontmeme.com/text-generator/",
+    "subtitle": "字体整合网站",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-08-04"
+  },
+  {
+    "name": "多算法图像和视频抖动处理",
+    "url": "https://ditheringstudio.com/zh/",
+    "subtitle": "在线图片/视频抖动算法处理",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-08-04"
+  },
+  {
+    "name": "Dribble",
+    "url": "https://dribbble.com/",
+    "subtitle": "移动端WEB参考网站",
+    "categories": [
+      "ui"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-window-11.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Awwwards",
+    "url": "https://www.awwwards.com/",
+    "subtitle": "网页UI参考网站",
+    "categories": [
+      "ui"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-window-11.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "CSS design awards",
+    "url": "https://www.cssdesignawards.com/",
+    "subtitle": "网站UI参考网站",
+    "categories": [
+      "ui"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-window-11.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "字体天下",
+    "url": "https://www.fonts.net.cn/",
+    "subtitle": "中文免费字体资源网站",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "猫啃",
+    "url": "https://www.maoken.com/all-fonts/",
+    "subtitle": "中文开源字体下载平台",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "maisfontes",
+    "url": "https://ci.maisfontes.com/",
+    "subtitle": "葡萄牙语字体下载网站",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Fontshare",
+    "url": "https://fontshare.com/",
+    "subtitle": "商业可用免费字体平台",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "100 font",
+    "url": "https://www.100font.com/",
+    "subtitle": "中文免费字体下载网站",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "站酷",
+    "url": "https://www.zcool.com.cn/",
+    "subtitle": "国内设计灵感收集分享平台",
+    "categories": [
+      "inspiration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-product-7-1.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "花瓣",
+    "url": "https://huaban.com/",
+    "subtitle": "国内设计灵感收集分享平台",
+    "categories": [
+      "inspiration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-product-7-1.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Designspiration",
+    "url": "https://designspiration.net",
+    "subtitle": "设计灵感收集分享平台",
+    "categories": [
+      "inspiration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-product-7-1.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Flat UI Colors",
+    "url": "https://flatuicolors.com",
+    "subtitle": "扁平化设计配色方案库",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Coolors",
+    "url": "https://coolors.co",
+    "subtitle": "快速配色方案生成器",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "抖动处理",
+    "url": "https://ditheringstudio.com/zh/",
+    "subtitle": "抖动算法图像处理工具",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "UI Movement",
+    "url": "https://uimovement.com",
+    "subtitle": "UI动画设计灵感展示平台",
+    "categories": [
+      "ui"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-window-11.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "半调制作器",
+    "url": "https://halftone.xoihazard.com/",
+    "subtitle": "专业半色调图案生成工具",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "typedither",
+    "url": "https://typedither.vercel.app/",
+    "subtitle": "文字半色调效果生成器",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "HEISEI-VHS",
+    "url": "https://hiyameshi-retro-pack.web.app/apps/Heisei-VHS/",
+    "subtitle": "在线VHS效果制作器",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Canva",
+    "url": "https://canva.com",
+    "subtitle": "在线平面设计工具，适合非专业用户",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "书法迷",
+    "url": "http://www.shufami.com/",
+    "subtitle": "书法字生成工具",
+    "categories": [
+      "font",
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "PhotoMosh",
+    "url": "https://moshpro.app",
+    "subtitle": "故障艺术效果生成器，创意图像处理",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Figma",
+    "url": "https://figma.com",
+    "subtitle": "协作式界面设计工具，现代设计首选",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "RGB seperator",
+    "url": "https://www.risoseparator.tools/",
+    "subtitle": "图形RGB分离工具",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Pixel Crash",
+    "url": "https://www.pixelcrash.xyz/",
+    "subtitle": "像素ASCII编辑工具",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "抠抠图",
+    "url": "https://www.koukoutu.com/removebgtool/all",
+    "subtitle": "在线图片去背景工具，操作简便",
+    "categories": [
+      "tool"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-10.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "fontspace",
+    "url": "https://www.fontspace.com/",
+    "subtitle": "免费字体下载平台，种类丰富",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "求字体",
+    "url": "https://www.qiuziti.com/",
+    "subtitle": "中文字体识别工具",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "识字体网",
+    "url": "https://www.likefont.com/",
+    "subtitle": "中文字体识别工具",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Myfonts",
+    "url": "https://www.myfonts.com",
+    "subtitle": "英文字体识别&amp;高质量商业字体",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Dafont",
+    "url": "https://www.dafont.com",
+    "subtitle": "经典字体下载网站，多种风格字体",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Google Fonts",
+    "url": "https://fonts.google.com",
+    "subtitle": "免费可商用字体库，支持Web字体",
+    "categories": [
+      "font"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-text-3.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "mockups design",
+    "url": "https://mockups-design.com/",
+    "subtitle": "免费样机工程下载",
+    "categories": [
+      "mockup"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-note-17.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "ls.graphics",
+    "url": "https://www.ls.graphics/free-mockups",
+    "subtitle": "免费样机工程下载",
+    "categories": [
+      "mockup"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-note-17.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "MockupWorld",
+    "url": "https://www.mockupworld.co/all-mockups/",
+    "subtitle": "免费样机工程下载",
+    "categories": [
+      "mockup"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-note-17.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Pexels",
+    "url": "https://pexels.com",
+    "subtitle": "免费高清图片和视频素材",
+    "categories": [
+      "illustration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-photo-camera-9.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "CleanPNG",
+    "url": "https://www.cleanpng.com/",
+    "subtitle": "无背景PNG图片资源库",
+    "categories": [
+      "illustration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-photo-camera-9.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Magnific(Freepik)",
+    "url": "https://www.magnific.com/cn",
+    "subtitle": "丰富的矢量图、PSD模板资源",
+    "categories": [
+      "illustration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-photo-camera-9.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "subtitle": "高质量免费摄影图片资源",
+    "categories": [
+      "illustration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-photo-camera-9.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "brusheezy",
+    "url": "https://www.brusheezy.com/free/photoshop",
+    "subtitle": "笔刷下载网站",
+    "categories": [
+      "resource"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-7.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "iconfont",
+    "url": "https://www.iconfont.cn/",
+    "subtitle": "阿里巴巴矢量图标库",
+    "categories": [
+      "resource"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-7.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "iconmonstr",
+    "url": "https://iconmonstr.com/",
+    "subtitle": "免费商用图标库",
+    "categories": [
+      "resource"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-7.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "texturelabs",
+    "url": "https://texturelabs.org/",
+    "subtitle": "专业材质纹理库，适合各种设计项目",
+    "categories": [
+      "resource"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-7.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Heritage Libarary",
+    "url": "https://www.heritagetype.com/",
+    "subtitle": "复古插画型素材站",
+    "categories": [
+      "resource"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-7.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Pattern Monster",
+    "url": "https://pattern.monster/",
+    "subtitle": "无缝纹理生成器",
+    "categories": [
+      "resource"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-7.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "transparent textures",
+    "url": "https://www.transparenttextures.com/",
+    "subtitle": "高质量透明纹理资源下载",
+    "categories": [
+      "resource"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-paintbrush-7.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Drawing Database",
+    "url": "https://drawingdatabase.com/",
+    "subtitle": "蓝图参考网站",
+    "categories": [
+      "inspiration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-product-7-1.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Deck Gallery",
+    "url": "https://deck.gallery/",
+    "subtitle": "PPT画廊",
+    "categories": [
+      "inspiration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-product-7-1.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "PVref",
+    "url": "https://pvdex.flux-ion.cn",
+    "subtitle": "PV鉴赏及参考网站",
+    "categories": [
+      "inspiration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-product-7-1.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Behance",
+    "url": "https://behance.net",
+    "subtitle": "全球设计师作品展示平台，灵感来源首选",
+    "categories": [
+      "inspiration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-product-7-1.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://pinterest.com",
+    "subtitle": "图片分享社交平台，海量设计灵感",
+    "categories": [
+      "inspiration"
+    ],
+    "icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-globe-5.svg",
+    "category_icon": "https://cdn.ignoredone.cn/wp-content/uploads/2026/06/iconmonstr-product-7-1.svg",
+    "broken": false,
+    "added_date": "2026-06-26"
+  }
+]
